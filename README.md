@@ -24,7 +24,7 @@
   <kbd>osu!preview</kbd>
 </a>
 <!-- <a href=""> -->
-  <kbd>uwu</kbd>
+  <kbd><s>uwu</s></kbd>
 <a href="//github.com/aeongdesu/Oauth2Join">
   <kbd>Oauth2Join</kbd>
 </a>
