@@ -1,4 +1,4 @@
-<p align="center">
+,<p align="center">
 
 <a href="https://osu.ppy.sh/users/14709263">
   <img src="https://osu-sig.vercel.app/card?user=14709263&mode=std&lang=en&blur=6&animation=true" />
@@ -29,7 +29,7 @@
 <h4>Projects</h4>
 
 <a href="//osu.pages.dev">
-  <kbd>osu!preview</kbd>
+  <kbd>osu!preview reborn</kbd>
 </a>
 <!-- <a href=""> -->
   <kbd><s>uwu</s></kbd>
