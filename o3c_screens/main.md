@@ -1,4 +1,4 @@
-> https://arca.live/b/osustandard\
+> https://arca.live/b/osustandard \
 > **osu!standard** channel
 
 ---
