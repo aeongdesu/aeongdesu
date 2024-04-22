@@ -14,8 +14,4 @@
   <kbd>AeongNeko</kbd>
 </a>
 
-<a href="/aeongone">
-  <kbd>GitHub</kbd>
-</a>
-
 </p>
