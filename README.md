@@ -1,7 +1,3 @@
-> [!WARNING]
-> On August 23, 2024, my domain will be changed to aeong.win.\
-> **Please be aware previous domain after the date!**
-
 <p align="center">
 
 <a href="https://osu.ppy.sh/users/14709263">
@@ -11,7 +7,7 @@
 <h4>Homepage</h4>
 
 <a href="https://aeong.win">
-  <kbd>AeongNeko</kbd>
+  <kbd>aeong.win</kbd>
 </a>
 
 </p>
